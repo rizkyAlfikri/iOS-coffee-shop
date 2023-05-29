@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Modern_Problems_Require_Modern_Solutions.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Modern_Problems_Require_Modern_Solutions 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Modern_Problems_Require_Modern_Solutions 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
